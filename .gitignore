@@ -1,0 +1,44 @@
+# Binaries
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio
+.vs/
+*.tmp
+*.log
+
+# NuGet
+packages/
+*.nupkg
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Build results
+*.exe
+*.dll
+*.pdb
+
+# Test results
+TestResults/
+
+# ReSharper
+_ReSharper*/
+
+# Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Temporary files
+*.tmp
+*.temp
